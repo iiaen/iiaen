@@ -1,6 +1,6 @@
 - 🦕 Hi, I’m @iiaen
 - 🤓 I’m interested in : python, raspberry pi, data science for business, e-paper/e-ink displays
-- ⚗️ I’m currently learning : aws, react
+- ⚗️ I’m currently learning : aws, react, kafka
 - 📫 How to reach me : tyforfeedback@gmail.com
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
