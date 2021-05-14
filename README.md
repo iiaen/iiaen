@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iiaen
-- 👀 I’m interested in : python, raspberry pi, data science for business
+- 👀 I’m interested in : python, raspberry pi, data science for business, e-paper/e-ink displays
 - 🌱 I’m currently learning : aws, react
 - 📫 How to reach me : tyforfeedback@gmail.com
 
